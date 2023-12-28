@@ -128,7 +128,8 @@ a {
 }
 
 .foot-logo {
-    color: var(--cloud);
+   
+    color: #f4f4fd
 }
 
 .footer-text {
