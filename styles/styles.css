@@ -19,7 +19,7 @@ body {
     color: #434455;
     background-color: var(--background);
     letter-spacing: 0.02em;
-    line-height: 1.5;
+
 }
 
 /* Header styles */
@@ -32,8 +32,7 @@ a {
     font-family: "Releway";
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
-    align-items: center;
+   
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
@@ -79,8 +78,7 @@ a {
 .first-header {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.075;
-    text-align: center;
+    
     letter-spacing: 0.02em;
     color: var(--background);
 }
@@ -90,7 +88,6 @@ a {
     background: var(--iris);
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--background);
     cursor: pointer;
@@ -103,7 +100,6 @@ a {
 .third-header {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -114,8 +110,7 @@ a {
 
 .second-header {
     font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
+  
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -145,8 +140,7 @@ a {
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    text-align: center;
+    
     letter-spacing: 0.04em;
     color: var(--iris);
     background: var(--cloud);
@@ -161,11 +155,9 @@ a {
 .visually-hidden {
     position: absolute;
     white-space: nowrap;
-    width: 1px;
-    height: 1px;
     overflow: hidden;
-    border: 0;
-    padding: 0;
+   
+  
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     margin: -1px;
