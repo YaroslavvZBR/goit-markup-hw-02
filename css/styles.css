@@ -43,7 +43,7 @@ a {
 }
 
 .nav-anchor:hover, .nav-anchor:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 .address {
@@ -67,6 +67,8 @@ a {
 .first-header {
     font-weight: 700;
     font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
     
     letter-spacing: 0.02em;
     color:#FFFFFF
@@ -78,8 +80,10 @@ a {
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.04em;
+    
     color:#FFFFFF;
     cursor: pointer;
+    line-height: 1.5;
 }
 
 .order-button:hover, .order-button:focus {
@@ -90,6 +94,7 @@ a {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
+   
 }
 
 .text {
@@ -99,9 +104,10 @@ a {
 
 .second-header {
     font-size: 36px;
-  
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:  #2e2f4255;
 }
 
 .team {
@@ -109,7 +115,7 @@ a {
 }
 
 .team-box {
-    background: var(--background);
+    background: #FFFFFF;
 }
 
 .footer {
@@ -144,8 +150,8 @@ a {
 }
 
 .portfolio-button:hover, .portfolio-button:focus {
-    background-color:  #4D5AE5;
-    color: var(--background);
+    background-color:  #404bbf;
+    color: #FFFFFF;
 }
 
 .visually-hidden {
