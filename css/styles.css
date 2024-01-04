@@ -1,4 +1,4 @@
-body {
+body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFF;
@@ -47,7 +47,7 @@ ul, ol {
     font-style: normal;
 }
 
-.header-nav-link {
+.header-nav-link{
     color: #2E2F42;
         font-size: 16px;
         font-weight: 500;
@@ -55,11 +55,8 @@ ul, ol {
         letter-spacing: 0.02em;
 }
 
-.header-nav-link a:hover{
-    background-color: #404bbf;
-}
-.header-nav-link a:focus{
-    background-color: #404bbf;
+.header-nav-link:hover, .header-nav-link:focus {
+    color:#404bbf;
 }
 
 .contacts {
@@ -67,18 +64,16 @@ ul, ol {
     color: #434455;
 }
 
-.contacts-link {
+.contacts-link{
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
 
-.contacts-link a:hover{
-    background-color: #404bbf;
-}
-.contacts-link a:focus{
-    background-color: #404bbf;
+.contacts-link:hover,
+.contacts-link:focus{
+    color: #404bbf;
 }
 
 /* ----------- */
