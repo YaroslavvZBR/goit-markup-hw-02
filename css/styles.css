@@ -87,6 +87,7 @@ ul, ol {
 
 .main-paragraph {
     color: #FFF;
+        text-align: center;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
@@ -134,6 +135,7 @@ ul, ol {
 
 .our-team {
     background-color: #F4F4FD;
+    text-align: center;
 }
 
 .team {
@@ -199,6 +201,7 @@ ul, ol {
 
 .footer {
     background-color: #2E2F42;
+    color: #fff;
 }
 
 .footer-logo {
