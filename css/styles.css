@@ -55,8 +55,10 @@ ul, ol {
         letter-spacing: 0.02em;
 }
 
-.header-nav-link a:hover,
-.header-nav-link a:focus {
+.header-nav-link a:hover{
+    background-color: #404bbf;
+}
+.header-nav-link a:focus{
     background-color: #404bbf;
 }
 
@@ -72,8 +74,10 @@ ul, ol {
         letter-spacing: 0.02em;
 }
 
-.contacts-link a:hover,
-.contacts-link a:focus {
+.contacts-link a:hover{
+    background-color: #404bbf;
+}
+.contacts-link a:focus{
     background-color: #404bbf;
 }
 
